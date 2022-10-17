@@ -33,7 +33,7 @@ Step 5: Personalization of Strategies for Relevant Segments
 
 
 
-## Examples: what was the best for sales 
+## Examples: what was the best month for sales 
 
 select MONTH_ID, 
 (sum(sales)) as REVENUE_YEAR, 
